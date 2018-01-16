@@ -60,7 +60,7 @@ void doc_file_ghi_file_moi(TEN a[]) {
             ch[0] = toupper(ch[0]);
             // ghi moi ten doc dc tu file text.txt ghi lan luot vao file xx2.txt
             fputs(ch, f_ghi);
-            /**/
+            /*In ra man hinh cac ten duoc doc tu file text.txt*/
             printf("%s", ch);
         }
         //
