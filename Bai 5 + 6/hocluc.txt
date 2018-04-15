@@ -1,0 +1,3 @@
+Tong so hoc luc kem: 1
+Tong so hoc luc trung binh: 3
+Tong so hoc luc gioi: 2

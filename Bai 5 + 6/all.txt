@@ -1,0 +1,4 @@
+Kich thuoc file student.txt la: 281 bytes.
+Kich thuoc file vinh.txt la: 139 bytes.
+Kich thuoc file hanoi.txt la: 97 bytes.
+Kich thuoc file hocluc.txt la: 77 bytes.
